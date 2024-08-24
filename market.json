@@ -1,0 +1,281 @@
+[{
+		"name": "推荐",
+		"list": [{
+			"url": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp",
+			"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp"
+		}]
+	},
+	{
+		"name": "本机APP分享",
+		"list": [{
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp"
+			},
+			{
+				"name": "宝盒TV版",
+				"url": "https://h-box.netlify.app/%E5%AE%9D%E7%9B%92-V3.1.21-32%E4%BD%8D-release.apk",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%AE%9D%E7%9B%92.png",
+				"version": "V3.1.22-release"
+			},
+			{
+				"name": "宝盒手机版",
+				"url": "https://h-box.netlify.app/%E5%AE%9D%E7%9B%92-V1.1.16-64%E4%BD%8D-release.apk",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%AE%9D%E7%9B%92.png",
+				"version": "V1.1.16-release"
+			},
+			{
+				"name": "影视仓内置_通用",
+				"url": "https://down-load.lanrar.com/file/?BmBQbltqADEGD1dvVmNSPlFuAzsFvwq1ALYA7gX+U9QC5lK+DsBU5QLSCtkHtFbqVqJXDVU/Ay9RZlN7VjkEPAbvUIdbnACzBsRXqVZdUj5RZANiBXQKaQB3AG0Ff1M0AmtSaQ42VF8CPQo4B25WZlY1V2VVOgMxUWNTZFY4BDAGIFBhW3UAaQZjVzJWOlJrUTMDNgVvCjsAIQB2BSlTbwIwUjUOYVQ0AnsKbAdrVnhWPldmVSUDMlFvU2xWMwRkBmJQMFtjAGMGZFc5VjFSMlFvA2IFbAowADMAMAVoU2cCMFIwDjZUNQIxCm0HYFY1VmlXZlU/Ay9RN1MlVmEEIwZzUHRbYwAmBjlXZVY/UmpRMwMxBWIKPwAwACAFLVM7Am9SYA41VD0CZQprB2FWY1Y5V2JVOwM5UWZTbVYkBCsGIFBhW2oAIwZtVzBWNVJhUT8DMgVtCj0APwA1BWBTdAJ3UnUOJFQ9AmUKawdhVmNWOFdlVT8DNlFkU2FWLARwBm9Qd1s7AGUGYlcwVixSYVEyAygFawo9AD4AKAVsU3wCJFJhDjxUdwI6CgMHMFY8VjFXYg",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
+				"version": "v5.0.39"
+			},
+			{
+				"name": "影视仓_海信",
+				"url": "https://down-load.lanrar.com/file/?A2UBP15vVWRSWwU9VmMFaVNsDjYEvgS7VuBbtQb9Wt0J7Va6XZMPblEpVzFXLQAyA2BSsQftVuME5we+VahQfwNiASZeaFUnUmIFOlZuBWFTVg5iBD8EO1ZgW2QGb1puCThWNF0yD2NRPlcnV2UAcgNkUmQHa1ZkBDAHNFU4UGkDMAFwXnNVcVI5BWFWMgU2Uz0OJARrBD5WfltsBmladAk6VjNdMw9pUTNXYlc0ADUDP1JiBztWYgQxBzVVP1A3AzMBNV5gVWRSNwUwVmAFYFM8DjwEOAQyVmVbOAZvWmgJJ1ZgXXAPMFEhV3RXcABkAytSPgc8VmkEOgc5VT5QaQM0AWFeJVV1Um0FPlZnBWJTNA46BGwENFZlW2gGalpqCTFWN103D3VRKVcnV2UAbQMuUmoHaVZjBDEHNVU9UGYDNQFjXjBVMVIiBSZWcgVzUzQOOgRsBDRWYltoBmxabwk7VjFdNA99UXJXaFdzADwDaFJlB2lWegQxBzhVJ1BgAzYBb14tVTRSKgV1VmYFa1N+DmUEBARlVjpbYAZq",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
+				"version": "v5.0.39"
+			},
+			{
+				"name": "521TV版",
+				"url": "https://down-load.lanrar.com/file/?CG4HOQw9BDVUXQU9BzJcMFVqUmpUPgAwVmBTsADhUeEH7wf3CNMGtQnLV7QKtl37BtoC4AfRAIpXYQcvXTVadQg5B34MMAQgVGkFdQc1XDRVY1IyVFQAa1Y1U2gAbVFpBzAHYAhlBmQJZ1c0Cm1degY6AnQHZQA2V2gHNF0wWmkIPwdpDGMEdlRyBSMHblxvVT9SZVQ/AC1WYVNtAHNRYgczB38INwZjCW5XNwpqXT0GawJiBzwANVc2BzldNlptCDoHZQxiBGZUMQVhB2ZcbVVsUm5UbgAzVjBTMwBoUWEHMAczCHsGMwkvV2oKeF0pBi8CYgcqAGtXNAc8XThaYwg/B2gMZgRnVCQFJwc6XDBValIxVDYAM1ZmU2cAaFFlBzcHYQhsBmcJaFcvCnBdegY6AmsHLwA/V2EHNl0zWm8IPAdnDGcEZFQzBWIHdVwoVX9SIFQ2ADNWZlNnAGhRZAcwB2YIZwZiCWpXJworXTUGLAI6B2kAMFdhBy9dM1piCCYHYQxkBGlULAVmB31ce1VrUjhUfABsVg5TNgA3UW0HNw",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
+				"version": "v7a_1.4.1"
+			},
+			{
+				"name": "521手机版",
+				"url": "https://down-load.lanrar.com/file/?UjRSbFloBjdUXQM7UGVUOFZpBj4CaFBgUWdbuFGwW+sA6Af3DtUGtFaJVosKuFbLWroG5FGHUNoGMVpyUztadVJqUitZZQYiVGkDc1BiVDxWYAZmAgJQO1EyW2BRPFtjADcHYA5jBmRWNlY4Cm5WcVpmBnBRM1BqBjlaaFM8WmpSYlI9WTcGdFRyAyVQOVRnVjwGMQJpUH1RZltlUSJbaAA0B38OZwZnVjFWMQo/VjFaYQY0UWtQMAZlWjlTOFo6UjFSN1kxBmpUOgNkUDxUbFY6BmcCblAwUW5bZVFrWzwAZAdoDn0GM1ZwVmsKeFYiWnMGZlF8UDsGZVphUzZaY1JlUj1ZMwZlVCQDIVBtVDhWaQZlAmBQY1FhW29ROVtvADAHYg5jBmBWMVYuCnBWcVpmBm9ReVBvBjBaa1M9Wm9SZlIyWTIGYVQwA2FQIlQgVnwGdAJgUGNRYVtvUTlbbgA3B2YOYgZhVjlWJgorVj5acAY+UT9QYAYwWnJTPVpiUnxSNFkxBmtULANgUCpUc1ZoBmwCKlA8UQlbPlFmW2cAMA",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
+				"version": "v7a_0.4.8m"
+			},
+			{
+				"name": "CatBox",
+				"url": "https://down-load.lanrar.com/file/?AmRVaws6BjcDCgszAzYAbFBvDzdXS1MwUSIBRVJhVSxTDAUkAW5SNlE1VzVRNVZiAWoFOVVVADILO1BiXTUBLgJjVXILPQZ0AzMLNAM7AGRQVQ9jV2xTbFFnAT5SO1VhU2IFZwFvUjdRNVcnUWNWJAFmBTJVPgAwCzVQYF01ATICNlUkCyYGIgNoC28DZwAzUD4PJVc4U2lReQE2Uj1Ve1NjBWsBblI3UTdXMFExVjEBawVmVT8AZws7UDVdMwFmAjFVOws1BjEDZgtuAzQAY1A8DzJXOFNgUW8BNVI5VWBTfQUzASxSbVEhV3RRdlYyASkFaVVuAD8LNVBuXTYBOAI1VTULcAYmAzwLMAMyAGdQNw87Vz9TY1FiATJSPlVmU2MFZgFlUihRKVcnUWNWOwEsBT1VOwA1Cz5QYl01ATcCNFU0C2IGYwNzCygDJwB2UDcPO1c/U2NRZQEyUjhVYFNhBWABbVIgUXJXaFF1VmoBagUyVTsALAs+UG9dLwExAjdVOwt4BmcDewt7AzMAblB9D2RXV1MyUT0BOlI+",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/CatBox.png",
+				"version": "v7a_0744"
+			},
+			{
+				"name": "壳助手",
+				"url": "https://down-load.lanrar.com/file/?VTMHOQs6BDUFDAY+BjNSPlNsBj4EvlT1A7dSsVOFBKwB5wfZXYtQWwRjUytQMwcoWzRUf1E2VHhVM1stATYEI1UzBzkLOgQ1BQwGOQY2Um5TOAY6BG5UYwM1UmFTPQQ2ATQHdl1mUHcEb1M0UDwHNls1VGdRPFRkVWZbewEtBHVVaAdiC2YEYgVnBn8GYlJrUyYGMgRoVHkDPVJiU2sEPQE4BzZdNFA9BDFTYFA0BzVbYlRiUWxUYVVmW2gBZQQ1VW0HZgszBDMFZAZoBmBSZFM5BjQEaVRhAypSNVN/BG4BJwclXXNQYQQgU2xQYAc7WzhUaVE5VG5VZVtqAXsEcVU8Bz0LMwQ2BW4GYQZlUmFTPQY2BGtUZAM0UmxTPgQrAS8Hdl1mUGgEJVM4UDUHMVszVGVROlRhVWdbbgFoBDdVcwclCyYEJwVuBmEGZVJhUzoGNgRtVGIDNVJjUzwEIwF0BzldcFA5BGNTN1A1ByhbM1RoUSBUZ1VnW2QBcwQwVXsHdgsyBD8FJAY+Bg1SMFNiBj4Eaw",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%A3%B3%E5%8A%A9%E6%89%8B.png",
+				"version": "v7a_1.7.5.8"
+			},
+			{
+				"name": "蓝云通用版",
+				"url": "https://down-load.lanrar.com/file/?VDJQbg08BDUEDVBoBjMAbFZpAzte6VfGAJpUtlawV8dTDAZgXi1SNVUtAGQFfwI6VCAGYl5xAmsKKwRkV2JWO1QxUFgNOQQ0BG9QNwZrADdWPgM2XjhXbQA2VGNWLFcwUyAGbF43UjNVMQBkBWkCMlQ6BiVecQJwCjAEMFc7VmVUYFAoDWAEaAR9UDcGagAuVjkDPl42V2QAZlRjVmlXZFNhBmdeM1I/VWUAbwVgAjFUOQZnXjECMgo/BDRXb1ZiVDFQMw1gBDUEYFAxBmYANFYiA2decVc+ACFUJ1Z5VzNTIQY4XmdSO1U6AG4FZgI7VDkGNF4nAnQKZARvV25WMVRpUDYNZwRiBGZQMwZiADNWPQM2XjhXewApVHRWbFc6UyQGbF4yUjFVMQBiBWUCNFQ4BjReMAI1CisEd1d7ViBUaVA2DWcEYgRhUD8GawA1Vj8DP141V3MAclQ7VnpXa1NiBmNeMlIoVTEAbwV/AjJUOwY6Xi8CNQojBCRXb1Y4VCNQaQ0PBDMEOVA7BmI",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E8%93%9D%E4%BA%91.png",
+				"version": "v1.3.2.9"
+			},
+				{
+				"name": "源码助手",
+				"url": "https://down-load.lanrar.com/file/?AGZVaww9BTQHDlZuBjNUOAE+BDxf5lPrApUD4lOvAIAA5QbbD/sOvAHeBtsBCgc3Wy9VZFUkCmlVIlA9XCZbPABpVW4MNAUOBzhWZAZvVGQBYgQ2XzBTYQI9AzRTPQAwACYGNw8hDmcBZQZnAWQHN1s2VWlVPAouVSJQJlw9W2gAMFUwDGUFfgdhVjgGfVRnAW8ELl85U2UCMQM0UzcAMgBhBjQPZA45ATQGZwFsBzJbMVVkVWwKO1VnUGVcNls5ADFVMwxhBWcHZ1Y5BjBUZAFvBGdfLlMwAnUDblMpAHQAcwY0DyAOMwEzBm0BbAc+WzZVaFU9Cj9VdFAiXGlbNwBlVWQMbAVgB2ZWMgZmVGABawQzXzFTZQI0AytTIQAnAGYGPQ8lDmcBZgZnAWcHMls1VWdVPAo/VWpQZlwmWy8AcFV1DGwFYAdmVjIGZlRhAWwEN182U2YCNAMjU3oAaABwBmwPYw5oAWYGfgFnBz9bL1VhVT8KMVV8UGNcLlt8AGRVbQwmBT8HDlZjBjlUaAFr",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B.png",
+				"version": "v1.4"
+			},
+			{
+				"name": "甲壳虫ADB助手",
+				"url": "https://down-load.lanrar.com/file/?AWdbZQo7V2YBCFZuBjNVOVBvAjpV7VbAALUE51eoVedQuAbIDvgDFlJAU0cDsgeMW6hSsVaAV94BWQA3USNVZwEvWzwKeVdiASdWawZ0VTJQYwJrVW9WCwBuBGZXNlVlUGkGZA5mA2ZSMVM3A2YHPlsnUjFWeldoATAAPlE/VWIBMFs8Cm9XJQEnVnAGb1VmUDoCNVU+VnsANwQ6VyRVZVBjBn4OagMxUjZTPAM0BzNbYFJlVj5XNgE1ADVRaVViAWRbOQpvVzUBZ1ZmBmJVY1AzAjBVaVZtADEENlc/VW1QMgZpDn0DNlJ0U24DcQdzW3JSMlZ7VzwBYgA7UTRVbAE2WzQKYFc0AXFWdAY7VTlQbwJhVTdWZQAwBDBXP1VhUGAGYw5iA2BSMlMrA3kHIFtnUjtWfldoATcAMVE/VWABNVs7CmFXOwFhVjAGdFUhUHoCcFU3VmUAMAQwVzhVYVBmBmUOYgNhUjVTIwMiB29bcVJqVjhXZwE3AChRP1VtAS9bPQpiVzoBeVY1BnxVclBuAmhVfVY6AFgEYVdgVWlQYA",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B.png",
+				"version": "v1.3.0"
+			},
+           {
+				"name": "Speedtest",
+				"url": "https://down-load.lanrar.com/file/?AGYHOV5vVWRSWwI6BTAHa1RrDjZVWQNxA2FVNgI6UicCZ1t/XHUOBVMwCnIKalJ9Uz4CKVNtViQDb1t7U2kHbwBsBzVeXFVoUmACaQVgBz9UOQ47VTsDMQM9VWcCaVJ1AmRbf1w8Dm5TNQplCmdSalMxAj5TPFZyA3RbLVMyBzQAMAdiXjdVLlI0AmwFfgc0VDoOJFVuAzcDPFU2AmtSYwIzWzxcOQ5qU2MKbQpoUjJTaAI0U2pWZgNnWzhTPwc3AGEHYV46VWdSPQJhBWAHZVQ/DjJVJANgA3RVOAJ4UiYCcVtpXHMOM1NhCmEKZ1JrUz4CP1M7VmMDIlspU2YHawBlBzZePlUwUjMCZgVlBzNUPg45VTgDMQMxVX0CcFJ1AmRbYFx2DmdTNAprCmxSZ1M9AjBTO1ZjAzVbalMpB3MAcAcnXj5VMFIzAmYFZQcyVDkOPFU/AzkDM1V1AitSOgJyWzFcMA5oUzQKcgpsUmpTJwI2UzlWbQMqW2hTIQcgAGQHP150VW9SWwI3BToHO1Q+",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/Speedtest.png",
+				"version": "v5.4.7"
+			},
+			{
+				"name": "K图箱",
+				"url": "https://down-load.lanrar.com/file/?BGIHOQEwAzJVXAM7UGVUOFJtBDxRRQrtC5dS6lfsUP9Q4VdfWVICZ1YuBmBWLAE1USVQNFF+UzpScwFhVGEEaQRhBw8BNQMzVT4DZFA9VGJSOAQwUTwKOgs4UmVXLVA3UCNXPVk2AmJWNQZlVjIBMlEzUGNRKFMhUiUBOlQ6BDUENgdkAXMDZ1U7A3pQNlRhUicEM1E+CjELaVJsV2lQaFBoVzBZZQIwVjgGYVYxATlRblAxUT1TMFIxAT9UOQQ9BGYHMgE/A2dVMwNmUDFUZ1JuBC9Rbwp4C2dScld+UCJQNVdyWW0CMlY9BmlWOgE3UTNQYlE5U3dSIQFuVGUEYARiB20BbQNgVTEDYVAxVGVSOgQzUT0KOgsiUnpXLVA3UDxXd1k5AmdWNwZiVjYBNFE8UG1RP1NpUmcBIVR9BHUEcwdtAW0DYFUxA2FQMFRiUjAEMVE4CjkLKlIhV2JQIVBtVzFZNgJnVi4GYlY7AS5ROlBgUTdTf1JgASlULgRhBGsHJwEyAwhVYAM+UDlUZQ",
+				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/K%E5%9B%BE%E7%AE%B1.png",
+				"version": "v1.0.5"
+			}								
+		]
+	},
+    {
+        "name": "FM影视正式版",
+        "list": [
+            {
+                "name": "電視-java",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "電視-java",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            }
+        ]
+    },
+    {
+        "name": "FM影视内测版",
+        "list": [
+           {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "電視-java",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "電視-py",
+                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "手機-java",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v7a"
+            },
+            {
+                "name": "手機-py",
+                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "唐三_v8a"
+            }
+        ]
+    },
+    {
+        "name": "FM影视正式版",
+        "list": [
+            {
+                "name": "电视",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/kitkat/leanback.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_4.x"
+            },
+            {
+                "name": "电视-java",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v7a"
+            },
+            {
+                "name": "电视-java",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v8a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v7a"
+            },
+            {
+                "name": "电视-py",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v8a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v7a"
+            },
+            {
+                "name": "手机-java",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v8a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v7a"
+            },
+            {
+                "name": "手机-py",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v8a"
+            },
+            {
+                "name": "海信专版",
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK"
+            },
+            {
+                "name": "电视版-X5离线", 
+                "url": "https://github.com/FongMi/Release/raw/main/apk/release/%E7%94%B5%E8%A7%86%E7%89%88-X5%E7%A6%BB%E7%BA%BF.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK"
+            }
+        ]
+    },
+    {
+        "name": "4.x版",
+        "list": [
+            {
+                "name": "電視",
+                "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "v7a"
+            }
+        ]
+    }
+]
