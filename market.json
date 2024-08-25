@@ -24,97 +24,91 @@
 			},
             {
                 "name": "FM影視TV版内置共存",
-                "url": "https://gitee.com/angxyaa/app/raw/main/FM%E5%BD%B1%E8%A6%96TV%E7%AB%AFv2.4.9%E7%89%88-python-32%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
+                "url": "https://raw.githubusercontent.com/Vivo-Max/app/main/FM%E5%BD%B1%E8%A6%96TV%E7%AB%AFv2.4.9%E7%89%88-python-32%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
                 "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "v2.4.9_python_v7a"
             },
             {
                 "name": "FM影視手机版内置共存",
-                "url": "https://gitee.com/angxyaa/app/raw/main/FM%E5%BD%B1%E8%A6%96%E6%89%8B%E6%9C%BA%E7%AB%AFv2.4.9%E7%89%88-python-64%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
+                "url": "https://raw.githubusercontent.com/Vivo-Max/app/main/FM%E5%BD%B1%E8%A6%96%E6%89%8B%E6%9C%BA%E7%AB%AFv2.4.9%E7%89%88-python-64%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
                 "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "v2.4.9_python_v8a"
             },
 			{
-				"name": "影视仓_通用",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.39%E9%80%9A%E7%94%A8.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
-				"version": "v5.0.39"
-			},
-			{
 				"name": "影视仓内置_通用",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE_5.0.39%E9%80%9A%E7%94%A8_mod.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE_5.0.39%E9%80%9A%E7%94%A8_mod.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
 				"version": "v5.0.39"
 			},
 			{
 				"name": "影视仓_海信",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%935.0.39%E6%B5%B7%E4%BF%A1.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%935.0.39%E6%B5%B7%E4%BF%A1.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
 				"version": "v5.0.39"
 			},
 			{
 				"name": "521TV版",
-				"url": "https://gitee.com/angxyaa/app/raw/main/521%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%881.4.1.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/521%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%881.4.1.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
 				"version": "v7a_1.4.1"
 			},
 			{
                "name": "521手机版",
-				"url": "https://gitee.com/angxyaa/app/raw/main/521%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%880.4.8.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/521%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%880.4.8.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
 				"version": "v7a_0.4.8m"
 			},
             {
 				"name": "CatBox",
-				"url": "https://gitee.com/angxyaa/app/raw/main/CatBox_v20240519_0744.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/CatBox_v20240519_0744.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/CatBox.png",
 				"version": "v7a_0744"
 			},
             {
 				"name": "EasyBox",
-				"url": "https://gitee.com/angxyaa/app/raw/main/EasyBox_139_0516_sign.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/EasyBox_139_0516_sign.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/EasyBox.png",
 				"version": "v139_0516"
 			},
             {
 				"name": "影迷",
-				"url": "https://gitee.com/angxyaa/app/raw/main/CatBox_v20240519_0744.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%BF%B7_2.5.2.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%BF%B7.png",
 				"version": "v2.5.2"
 			},
 			{
 				"name": "壳助手",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E5%A3%B3%E5%8A%A9%E6%89%8B_1.7.5.8.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%A3%B3%E5%8A%A9%E6%89%8B_1.7.5.8.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%A3%B3%E5%8A%A9%E6%89%8B.png",
 				"version": "v7a_1.7.5.8"
 			},
 			{
 				"name": "蓝云通用版",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E8%93%9D%E4%BA%91_1.3.2.9.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E8%93%9D%E4%BA%91_1.3.2.9.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E8%93%9D%E4%BA%91.png",
 				"version": "v1.3.2.9"
 			},
 				{
 				"name": "源码助手",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B_1.4.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B_1.4.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B.png",
 				"version": "v1.4"
 			},
 			{
 				"name": "甲壳虫ADB助手",
-				"url": "https://gitee.com/angxyaa/app/raw/main/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B.png",
 				"version": "v1.3.0"
 			},
            {
 				"name": "Speedtest",
-				"url": "https://gitee.com/angxyaa/app/raw/main/Speedtest_5.4.7.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/Speedtest_5.4.7.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/Speedtest.png",
 				"version": "v5.4.7"
 			},
 			{
 				"name": "K图箱",
-				"url": "https://gitee.com/angxyaa/app/raw/main/K%E5%9B%BE%E7%AE%B1_V1.0.5.apk",
+				"url": "https://github.com/Vivo-Max/app/raw/main/K%E5%9B%BE%E7%AE%B1_V1.0.5.apk",
 				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/K%E5%9B%BE%E7%AE%B1.png",
 				"version": "v1.0.5"
 			}								
@@ -285,13 +279,13 @@
    },           
           {
                 "name": "OK影视Pro-手机版",
-                "url": "https://gitee.com/angxyaa/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-32%E4%BD%8D-2.5.1.apk",
+                "url": "https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-32%E4%BD%8D-2.5.1.apk",
                 "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v7a_2.5.1"
             },
           {
                 "name": "OK影视Pro-手机版",
-                "url": "https://gitee.com/angxyaa/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-64%E4%BD%8D-2.5.1.apk",
+                "url": "https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-64%E4%BD%8D-2.5.1.apk",
                 "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v8a_2.5.1"
             },
