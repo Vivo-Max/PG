@@ -1,168 +1,184 @@
-[{
-		"name": "推薦",
-		"list": [{
-			"url": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp",
-			"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp"
-		}]
-	},
-	{
-		"name": "本机APP分享",
-		"list": [{
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp"
-			},
-			{
-				"name": "宝盒TV版",
-				"url": "https://h-box.netlify.app/%E5%AE%9D%E7%9B%92-V3.1.21-32%E4%BD%8D-release.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%AE%9D%E7%9B%92.png",
-				"version": "V3.1.22-release"
-			},
-			{
-				"name": "宝盒手机版",
-				"url": "https://h-box.netlify.app/%E5%AE%9D%E7%9B%92-V1.1.16-64%E4%BD%8D-release.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%AE%9D%E7%9B%92.png",
-				"version": "V1.1.16-release"
-			},
+[
+    {
+        "name": "推薦",
+        "list": [
+            {
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp"
+            }
+        ]
+    },
+    {
+        "name": "本机APP分享",
+        "list": [
+            {
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/APP%E5%88%86%E4%BA%AB.webp"
+            },
+            {
+                "name": "我的电视",
+                "url": "https://gh-proxy.com/https://github.com/yaoxieyoulei/mytv-android/releases/download/tv2.2.0/mytv-android-tv-2.2.0-all-sdk21.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86.png",
+                "version": "V2.1.2-release"
+            },
+            {
+                "name": "极致",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E6%9E%81%E8%87%B4_1.2.0.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E6%9E%81%E8%87%B4.png",
+                "version": "V1.2.0-release"
+            },
+            {
+                "name": "宝盒TV版",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/PG/raw/main/app/%E5%AE%9D%E7%9B%92-V3.1.22-32%E4%BD%8D-release.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%AE%9D%E7%9B%92.png",
+                "version": "V3.1.22-32-release"
+            },
+            {
+                "name": "宝盒手机版",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/PG/raw/main/app/%E5%AE%9D%E7%9B%92-V1.1.17-64%E4%BD%8D-release.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%AE%9D%E7%9B%92.png",
+                "version": "V1.1.17-64-release"
+            },
             {
                 "name": "FM影視TV版内置共存",
-                "url": "https://raw.githubusercontent.com/Vivo-Max/app/main/FM%E5%BD%B1%E8%A6%96TV%E7%AB%AFv2.4.9%E7%89%88-python-32%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/app/main/FM%E5%BD%B1%E8%A6%96TV%E7%AB%AFv2.4.9%E7%89%88-python-32%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "v2.4.9_python_v7a"
             },
             {
                 "name": "FM影視手机版内置共存",
-                "url": "https://raw.githubusercontent.com/Vivo-Max/app/main/FM%E5%BD%B1%E8%A6%96%E6%89%8B%E6%9C%BA%E7%AB%AFv2.4.9%E7%89%88-python-64%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/app/main/FM%E5%BD%B1%E8%A6%96%E6%89%8B%E6%9C%BA%E7%AB%AFv2.4.9%E7%89%88-python-64%E4%BD%8D%E5%86%85%E7%BD%AE%E5%85%B1%E5%AD%98%E7%89%88_opt.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "v2.4.9_python_v8a"
             },
-			{
-				"name": "影视仓内置_通用",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE_5.0.39%E9%80%9A%E7%94%A8_mod.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
-				"version": "v5.0.39"
-			},
-			{
-				"name": "影视仓_海信",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%935.0.39%E6%B5%B7%E4%BF%A1.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
-				"version": "v5.0.39"
-			},
-			{
-				"name": "521TV版",
-				"url": "https://github.com/Vivo-Max/app/raw/main/521%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%881.4.1.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
-				"version": "v7a_1.4.1"
-			},
-			{
-               "name": "521手机版",
-				"url": "https://github.com/Vivo-Max/app/raw/main/521%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%880.4.8.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
-				"version": "v7a_0.4.8m"
-			},
             {
-				"name": "CatBox",
-				"url": "https://github.com/Vivo-Max/app/raw/main/CatBox_v20240519_0744.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/CatBox.png",
-				"version": "v7a_0744"
-			},
+                "name": "影视仓内置_通用",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%93%E5%86%85%E7%BD%AE_5.0.39%E9%80%9A%E7%94%A8_mod.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
+                "version": "v5.0.39"
+            },
             {
-				"name": "EasyBox",
-				"url": "https://github.com/Vivo-Max/app/raw/main/EasyBox_139_0516_sign.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/EasyBox.png",
-				"version": "v139_0516"
-			},
+                "name": "影视仓_海信",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%A7%86%E4%BB%935.0.39%E6%B5%B7%E4%BF%A1.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86%E4%BB%93.png",
+                "version": "v5.0.39"
+            },
             {
-				"name": "影迷",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%BF%B7_2.5.2.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%BF%B7.png",
-				"version": "v2.5.2"
-			},
-			{
-				"name": "壳助手",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E5%A3%B3%E5%8A%A9%E6%89%8B_1.7.5.8.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%A3%B3%E5%8A%A9%E6%89%8B.png",
-				"version": "v7a_1.7.5.8"
-			},
-			{
-				"name": "蓝云通用版",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E8%93%9D%E4%BA%91_1.3.2.9.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E8%93%9D%E4%BA%91.png",
-				"version": "v1.3.2.9"
-			},
-				{
-				"name": "源码助手",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B_1.4.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B.png",
-				"version": "v1.4"
-			},
-			{
-				"name": "甲壳虫ADB助手",
-				"url": "https://github.com/Vivo-Max/app/raw/main/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B.png",
-				"version": "v1.3.0"
-			},
-           {
-				"name": "Speedtest",
-				"url": "https://github.com/Vivo-Max/app/raw/main/Speedtest_5.4.7.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/Speedtest.png",
-				"version": "v5.4.7"
-			},
-			{
-				"name": "K图箱",
-				"url": "https://github.com/Vivo-Max/app/raw/main/K%E5%9B%BE%E7%AE%B1_V1.0.5.apk",
-				"icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/K%E5%9B%BE%E7%AE%B1.png",
-				"version": "v1.0.5"
-			}								
-		]
-	},
+                "name": "521TV版",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/521%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%881.4.1.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
+                "version": "v7a_1.4.1"
+            },
+            {
+                "name": "521手机版",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/521%E5%BD%B1%E8%A7%86%E6%89%8B%E6%9C%BA%E7%89%880.4.8.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/521%E5%BD%B1%E8%A7%86.png",
+                "version": "v7a_0.4.8m"
+            },
+            {
+                "name": "CatBox",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/CatBox_v20240519_0744.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/CatBox.png",
+                "version": "v7a_0744"
+            },
+            {
+                "name": "EasyBox",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/EasyBox_139_0516_sign.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/EasyBox.png",
+                "version": "v139_0516"
+            },
+            {
+                "name": "影迷",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E5%BD%B1%E8%BF%B7_2.5.2.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%BF%B7.png",
+                "version": "v2.5.2"
+            },
+            {
+                "name": "壳助手",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E5%A3%B3%E5%8A%A9%E6%89%8B_1.7.5.8.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%A3%B3%E5%8A%A9%E6%89%8B.png",
+                "version": "v7a_1.7.5.8"
+            },
+            {
+                "name": "蓝云通用版",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E8%93%9D%E4%BA%91_1.3.2.9.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E8%93%9D%E4%BA%91.png",
+                "version": "v1.3.2.9"
+            },
+            {
+                "name": "源码助手",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B_1.4.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E6%BA%90%E7%A0%81%E5%8A%A9%E6%89%8B.png",
+                "version": "v1.4"
+            },
+            {
+                "name": "甲壳虫ADB助手",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B_1.3.0.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E7%94%B2%E5%A3%B3%E8%99%ABADB%E5%8A%A9%E6%89%8B.png",
+                "version": "v1.3.0"
+            },
+            {
+                "name": "Speedtest",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/Speedtest_5.4.7.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/Speedtest.png",
+                "version": "v5.4.7"
+            },
+            {
+                "name": "K图箱",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/K%E5%9B%BE%E7%AE%B1_V1.0.5.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/K%E5%9B%BE%E7%AE%B1.png",
+                "version": "v1.0.5"
+            }
+        ]
+    },
     {
         "name": "唐三影视正式版",
         "list": [
             {
                 "name": "電視-java",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             },
             {
                 "name": "手機-java",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             }
         ]
@@ -170,52 +186,52 @@
     {
         "name": "唐三影视内测版",
         "list": [
-           {
+            {
                 "name": "電視-java",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-armeabi_v7a.apk",
-                "icon": "https://i.imgs.ovh/2023/10/17/r8nk2.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/leanback-java-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://i.imgs.ovh/2023/10/17/r8nk2.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-java-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/leanback-java-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/leanback-python-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://fm.caioa.link/main/apk/dev/leanback-python-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/leanback-python-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             },
             {
                 "name": "手機-java",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/mobile-java-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-java-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/mobile-java-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/mobile-python-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://fm.caioa.link/main/apk/dev/mobile-python-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/Release/4bfa30c78708a1a9591bdacc5acb159d0101ab4f/apk/dev/mobile-python-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "唐三_v8a"
             }
         ]
@@ -225,80 +241,80 @@
         "list": [
             {
                 "name": "電視",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/kitkat/leanback.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/kitkat/leanback.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_4.x"
             },
             {
                 "name": "電視-java",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v7a"
             },
             {
                 "name": "電視-java",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/leanback-java-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v8a"
             },
             {
                 "name": "電視-py",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v7a"
             },
             {
                 "name": "電視-py",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/leanback-python-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v8a"
             },
             {
                 "name": "手機-java",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v7a"
             },
             {
                 "name": "手機-java",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/mobile-java-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v8a"
             },
             {
                 "name": "手機-py",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-armeabi_v7a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-armeabi_v7a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v7a"
             },
             {
                 "name": "手機-py",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-arm64_v8a.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/mobile-python-arm64_v8a.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v8a"
-   },           
-          {
-                "name": "OK影视Pro-手机版",
-                "url": "https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-32%E4%BD%8D-2.5.1.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
-                "version": "OK_v7a_2.5.1"
             },
-          {
+            {
                 "name": "OK影视Pro-手机版",
-                "url": "https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-64%E4%BD%8D-2.5.1.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
-                "version": "OK_v8a_2.5.1"
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-32%E4%BD%8D-2.5.6.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v7a"
+            },
+            {
+                "name": "OK影视Pro-手机版",
+                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-64%E4%BD%8D-2.5.6.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "version": "OK_v8a"
             },
             {
                 "name": "海信专版",
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK"
             },
             {
-                "name": "電視版-X5离线", 
-                "url": "https://github.com/FongMi/Release/raw/main/apk/release/%E7%94%B5%E8%A7%86%E7%89%88-X5%E7%A6%BB%E7%BA%BF.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "name": "電視版-X5离线",
+                "url": "https://gh-proxy.com/https://github.com/FongMi/Release/raw/main/apk/release/%E7%94%B5%E8%A7%86%E7%89%88-X5%E7%A6%BB%E7%BA%BF.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK"
             }
         ]
@@ -308,8 +324,8 @@
         "list": [
             {
                 "name": "電視",
-                "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
-                "icon": "https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
+                "url": "https://gh-proxy.com/https://fm.caioa.link/main/apk/kitkat/leanback.apk",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "v7a"
             }
         ]
