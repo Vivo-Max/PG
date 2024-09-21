@@ -294,14 +294,14 @@
                 "version": "OK_v8a"
             },
             {
-                "name": "OK影视Pro-手机版",
-                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-32%E4%BD%8D-2.5.6.apk",
+                "name": "OK影视Pro-电视版",
+                "url": "https://github.com/Vivo-Max/app/raw/refs/heads/main/OK%E5%BD%B1%E8%A7%86Pro-%E7%94%B5%E8%A7%86%E7%89%88.apk",
                 "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v7a"
             },
             {
                 "name": "OK影视Pro-手机版",
-                "url": "https://gh-proxy.com/https://github.com/Vivo-Max/app/raw/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88-64%E4%BD%8D-2.5.6.apk",
+                "url": "https://raw.githubusercontent.com/Vivo-Max/app/refs/heads/main/OK%E5%BD%B1%E8%A7%86Pro-%E6%89%8B%E6%9C%BA%E7%89%88.apk",
                 "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/Vivo-Max/PG/main/png/%E5%BD%B1%E8%A7%86.png",
                 "version": "OK_v8a"
             },
